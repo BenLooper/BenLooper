@@ -19,8 +19,8 @@ While I'm not terribly fond of social media, modeling a similar domain was a fun
 We're moving on to JavaScript to make our (until now) rather dull front-ends a little more dynamic.
 
 ### _Side Projects!_
-  - Build up my Pick a Path story program called Navigator.
+  - Build up my Pick a Path story program called Navigator
   - Style my personal blog with my new styling skills
-  - Make a basic portfolio site (hosted on Github) to showcase things I'm working on.
+  - Make a basic portfolio site (hosted on Github) to showcase things I'm working on
   - Turn my raspberry pi into an ad blocker for my apartment!
 
