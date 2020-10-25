@@ -9,14 +9,14 @@ I love working with others, systematically attacking problems, and making weird/
 I'm studying to become a full stack software engineer at Flaitron School. I graduate early December, and can't wait to officially become a developer! 
 
 ### _The Last Thing I Worked On_
-We just finished learning Rails and tons of backend stuff. I also got to style a bit using CSS and Bootstrap.
+We just finished our introduction to JavaScript and I _love_ it, it's such a powerful and nuanced language. 
 
-It culminated in a project that I was given 5 days to work on, called [ArtWalk](https://github.com/BenLooper/Mod2Project) (essentially "Instagram for Artists").
+Our final project for this module was an interactive periodic table called [Valence](https://github.com/BenLooper/BABWPTA).
 
-While I'm not terribly fond of social media, modeling such a domain was a fun and interesting challenge for me.
+It was a lot of fun to make. It's got some cool styling, and persisting user data using Rails on the backend. 
 
 ### _What's Next?_
-We're moving on to JavaScript to make our (until now) rather dull front-ends a little more dynamic.
+We're starting to learn React next. I can't wait to learn a framework for the frontend, the next project is going to look **awesome**.
 
 ### _Side Projects!_
   - Build up my Pick a Path story program called [Navigator](https://github.com/BenLooper/Navigator)
