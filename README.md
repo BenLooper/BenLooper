@@ -6,21 +6,20 @@ I'm Ben, welcome to my Github!
 I love working with others, systematically attacking problems, and making weird/interesting stuff.
 
 ### _My Current Role_
-I'm studying to become a full stack software engineer at Flaitron School. I graduate early December, and can't wait to officially become a developer! 
+I'm studying to become a full stack software engineer at Flatiron School. Only one more week until I graduate!
 
 ### _The Last Thing I Worked On_
-We just finished our introduction to JavaScript and I _love_ it, it's such a powerful and nuanced language. 
+I learned some more advanced JavaScript and moved on to React, which I absolutely love.
 
-Our final project for this module was an interactive periodic table called [Valence](https://github.com/BenLooper/BABWPTA).
+We finished out that section of the course by making [Stellar](https://github.com/BenLooper/stellar-app), which is an educational platform hooked up to two NASA APIs!
 
-It was a lot of fun to make. It's got some cool styling, and persisting user data using Rails on the backend. 
+Creating that big of a project in React was very challenging, but now I feel very comfortable with the framework. 
 
 ### _What's Next?_
-We're starting to learn React next. I can't wait to learn a framework for the frontend, the next project is going to look **awesome**.
+I'm working on my final capston project -- it's due next week 😬 so I'll be hard at work with that. 
+I'm very excited to share the finished product. I even learned Redux for it so that my state wasn't so messy! 
 
 ### _Side Projects!_
-  - Build up my Pick a Path story program called [Navigator](https://github.com/BenLooper/Navigator)
-  - Style my [personal blog](http://benlooper.net/) with my new styling skills
-  - Make a basic portfolio site (hosted on Github) to showcase things I'm working on
-  - Turn my raspberry pi into an [ad blocker](https://www.raspberrypi.org/blog/pi-hole-raspberry-pi/) for my apartment!
+  - Follow my progress on the capstone project on [Twitter](https://twitter.com/ben_looper) (I'm having way too much fun with Twitter)
+  - Get a job! (just going to leave this here 😉 ...[LinkedIn](www.linkedin.com/in/benjamin-looper-a6a088158) 
 
