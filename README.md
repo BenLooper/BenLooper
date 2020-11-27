@@ -21,5 +21,5 @@ I'm very excited to share the finished product. I even learned Redux for it so t
 
 ### _Side Projects!_
   - Follow my progress on the capstone project on [Twitter](https://twitter.com/ben_looper) (I'm having way too much fun with Twitter)
-  - Get a job! (just going to leave this here 😉 ...[LinkedIn](www.linkedin.com/in/benjamin-looper-a6a088158) 
+  - Get a job! (just going to leave this here 😉 ...[LinkedIn](www.linkedin.com/in/benjamin-looper-a6a088158))
 
