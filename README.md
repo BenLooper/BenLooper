@@ -6,20 +6,22 @@ I'm Ben, welcome to my Github!
 I love working with others, systematically attacking problems, and making weird/interesting stuff.
 
 ### _My Current Role_
-I'm studying to become a full stack software engineer at Flatiron School. Only one more week until I graduate!
+I'm an Associate Software Engineer at Infosys - currently in training, then on to contract work! 
 
 ### _The Last Thing I Worked On_
-I learned some more advanced JavaScript and moved on to React, which I absolutely love.
+I'm currently obsessed with frontend development, specifically React. 
 
-We finished out that section of the course by making [Stellar](https://github.com/BenLooper/stellar-app), which is an educational platform hooked up to two NASA APIs!
+My last substantial project was [Rogue Moon](https://github.com/BenLooper/RogueMoon), a game where you wrestle control of the moon from the clutches of a rogue AI by...playing it in cards (inspired by Gwent from the Witcher 3).  
 
-Creating that big of a project in React was very challenging, but now I feel very comfortable with the framework. 
+I loved making this project. It inspired me to continue working with React and to let my imagination run a little wild with my personal projects.
 
 ### _What's Next?_
-I'm working on my final capston project -- it's due next week 😬 so I'll be hard at work with that. 
-I'm very excited to share the finished product. I even learned Redux for it so that my state wasn't so messy! 
+I have an ever growing list of things I'm interested in studying/making in my free time, be sure to look at my side projects for an update on those.
+Soon I start 2 months of training at Infosys, and after that I'll start contracting for companies!
 
 ### _Side Projects!_
-  - Follow my progress on the capstone project on [Twitter](https://twitter.com/ben_looper) (I'm having way too much fun with Twitter)
-  - Get a job! (just going to leave this here 😉 ...[LinkedIn](www.linkedin.com/in/benjamin-looper-a6a088158))
+  - Make a beautiful portfolio site that isn't a statically generated Jekyll template
+  - Continuously improve Rogue Moon, with the ultimate goal of getting it hosted through AWS
+  - Learn Golang 
+  - Learn testing for React 
 
