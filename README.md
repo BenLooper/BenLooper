@@ -16,7 +16,7 @@ My last substantial side project was [Rogue Moon](https://github.com/BenLooper/R
 At work, I've been working heavily with AWS Cloudformation (and by extension, many other services), basic Kubernetes stuff, and creating pipelines on TeamCity. 
 
 ### _What's Next?_
-I have an ever growing list of things I'm interested in studying/making in my free time, be sure to check [my website](benlooper.tech) for updates on side projects.
+I have an ever growing list of things I'm interested in studying/making in my free time, be sure to check [my website](https://benlooper.tech/) for updates on side projects.
 My goal for my next project is to have the backend be entirely serverless with AWS. After that, I want to learn Django as an API for a React frontend.
 I'm learning a lot in my current role at UAL. Something I want to improve upon more is my familiarity with Microservices Architecture.
 
