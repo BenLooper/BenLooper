@@ -6,23 +6,21 @@ I'm Ben, welcome to my Github!
 I love working with others, systematically attacking problems, and making weird/interesting stuff.
 
 ### _My Current Role_
-I'm an Associate Software Engineer at Infosys - currently I'm in a Devops role for a contract at United Airlines! 
+I'm a full stack software engineer at Gulf Coast Solutions (.NET / React).
 
 ### _The Last Thing I Worked On_
-I'm currently obsessed with frontend development, specifically React. 
+I'm diving deeper with ASP.NET Core, currently using it to make an API for a personal project.
 
-My last substantial side project was [Rogue Moon](https://github.com/BenLooper/RogueMoon), a game where you wrestle control of the moon from the clutches of a rogue AI by...playing it in cards (inspired by Gwent from the Witcher 3).  
+My last substantial side project was [Tap Tourney](https://www.taptourney.com/), a community-driven game about tapping as fast as you can (made with AWS Amplify and React). 
 
-At work, I've been working heavily with AWS Cloudformation (and by extension, many other services), basic Kubernetes stuff, and creating pipelines on TeamCity. 
+At work, I use primarily .NET Core and React to develop functionality for a financial administration platform - projected to be finished in 6 months.
 
 ### _What's Next?_
 I have an ever growing list of things I'm interested in studying/making in my free time, be sure to check [my website](https://benlooper.tech/) for updates on side projects.
-My goal for my next project is to have the backend be entirely serverless with AWS. After that, I want to learn Django as an API for a React frontend.
-I'm learning a lot in my current role at UAL. Something I want to improve upon more is my familiarity with Microservices Architecture.
+My goal for my next project is to expand upon my knowledge of C# and ASP.NET.
 
 ### _Side Projects!_
-  - Have Rogue Moon fully operational on AWS 
+  - Make the UI for my side project Rogue Moon responsive (don't even try opening it on mobile)
   - Learn Golang 
-  - Learn testing for React 
   - Learn Django
 
